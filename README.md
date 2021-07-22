@@ -1,3 +1,3 @@
 # store
-Unit test with Jest
+React Redux unit testing with Jest and enzyme
 # storeTest
